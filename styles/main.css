@@ -1,0 +1,49 @@
+header {
+    height: 150px;
+    background: url(../assets/img-background.png);
+    width: 100%;
+}
+
+header h1 {
+    background: red;
+    text-align: center;
+    margin: auto;
+    max-width: 150px;
+}
+
+#main_container {
+    padding: 15px;
+    width: 1200px;
+}
+
+.container {
+    border: 1px solid #6F76F7;
+    border-radius: 5px;
+    float: left;
+    min-height: 300px;
+    padding: 15px;
+}
+
+.container h1 {
+    color: #6F76F7;
+}
+
+#contaniner_left {
+    margin-right: 25px;
+    width: 700px;
+}
+
+#contaniner_left p {
+    text-indent: 25px;
+}
+
+#container_right {
+    width: 350px;
+}
+
+#container_table {
+    margin-top: 15px;
+    display: block;
+    float: left;
+    width: 1200px;
+}
